@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pentax Analog Camera
+* source:	https://sketchfab.com/3d-models/pentax-analog-camera-94d5f526587245c4b8ac1f538888aba8
+* author:	havishia (https://sketchfab.com/havishia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pentax Analog Camera" (https://sketchfab.com/3d-models/pentax-analog-camera-94d5f526587245c4b8ac1f538888aba8) by havishia (https://sketchfab.com/havishia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

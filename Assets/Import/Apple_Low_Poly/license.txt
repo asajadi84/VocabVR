@@ -1,0 +1,11 @@
+Model Information:
+* title:	Apple Low Poly
+* source:	https://sketchfab.com/3d-models/apple-low-poly-39b653593b654e10be34004eae6fe216
+* author:	raffiramadhan (https://sketchfab.com/raffiramadhan)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Apple Low Poly" (https://sketchfab.com/3d-models/apple-low-poly-39b653593b654e10be34004eae6fe216) by raffiramadhan (https://sketchfab.com/raffiramadhan) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

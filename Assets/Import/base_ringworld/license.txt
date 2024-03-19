@@ -1,0 +1,11 @@
+Model Information:
+* title:	base ringworld
+* source:	https://sketchfab.com/3d-models/base-ringworld-24cb9e83dd4f4a8584cdf93c3e7603eb
+* author:	raulrabanales (https://sketchfab.com/raulrabanales)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "base ringworld" (https://sketchfab.com/3d-models/base-ringworld-24cb9e83dd4f4a8584cdf93c3e7603eb) by raulrabanales (https://sketchfab.com/raulrabanales) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

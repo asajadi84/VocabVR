@@ -1,0 +1,11 @@
+Model Information:
+* title:	Skibid Strider Speaker
+* source:	https://sketchfab.com/3d-models/skibid-strider-speaker-55a5605a33e046959c5e2d852bf8f1ae
+* author:	j (https://sketchfab.com/gmanfromhl2)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Skibid Strider Speaker" (https://sketchfab.com/3d-models/skibid-strider-speaker-55a5605a33e046959c5e2d852bf8f1ae) by j (https://sketchfab.com/gmanfromhl2) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

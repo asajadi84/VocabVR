@@ -1,0 +1,47 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/version 3/scenes/00-mainscene.unity
+    guid: 6efec61ac797c814c8bd60d50229066e
+  - enabled: 1
+    path: Assets/version 3/scenes/01-task1-art.unity
+    guid: fbdf5524f66bbea4eb06ca0414598dea
+  - enabled: 1
+    path: Assets/version 3/scenes/02-task2-art.unity
+    guid: 964c595c2b061b14c93959b69352239a
+  - enabled: 1
+    path: Assets/version 3/scenes/03-task1-math.unity
+    guid: 9d91f710bed9e8f4f805e85e3fdf457e
+  - enabled: 1
+    path: Assets/version 3/scenes/04-task2-math.unity
+    guid: c2f78ad890bd6c843a0daf6e4d91d10e
+  - enabled: 1
+    path: Assets/version 3/scenes/05-task1-science.unity
+    guid: e12edf54dfb5bc349831d3f5274d152a
+  - enabled: 1
+    path: Assets/version 3/scenes/06-task2-science.unity
+    guid: 64fe9d5d7c2e2cf46b2f9c095297a328
+  - enabled: 1
+    path: Assets/version 3/scenes/07-task1-pe.unity
+    guid: 0c0aa85f613dddd4a9e293ccd5b68420
+  - enabled: 1
+    path: Assets/version 3/scenes/08-task2-pe.unity
+    guid: d4b9971ecd42123498d0487e35640844
+  - enabled: 1
+    path: Assets/version 3/scenes/09-task1-geography.unity
+    guid: 0ccf9f5afe7636541919ecd1125caa15
+  - enabled: 1
+    path: Assets/version 3/scenes/10-task2-geography.unity
+    guid: 481636c62d6b1904e8f57e9431924cd0
+  - enabled: 1
+    path: Assets/version 3/scenes/11-task1-animal.unity
+    guid: 8544aba1492bbf44391008d199331b09
+  - enabled: 1
+    path: Assets/version 3/scenes/12-task2-animal.unity
+    guid: 697893730c681704eb270ae605c7a8a0
+  m_configObjects: {}

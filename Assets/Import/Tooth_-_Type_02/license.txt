@@ -1,0 +1,11 @@
+Model Information:
+* title:	Tooth - Type 02
+* source:	https://sketchfab.com/3d-models/tooth-type-02-4b81d5d239f945d18193a1cf54397b44
+* author:	dg samples (https://sketchfab.com/dgsamples)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Tooth - Type 02" (https://sketchfab.com/3d-models/tooth-type-02-4b81d5d239f945d18193a1cf54397b44) by dg samples (https://sketchfab.com/dgsamples) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

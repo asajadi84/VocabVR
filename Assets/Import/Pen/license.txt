@@ -1,0 +1,11 @@
+Model Information:
+* title:	Pen
+* source:	https://sketchfab.com/3d-models/pen-0d50b2121edf4169b651ccdb17a2f0bb
+* author:	AnnabelK (https://sketchfab.com/AnnabelK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Pen" (https://sketchfab.com/3d-models/pen-0d50b2121edf4169b651ccdb17a2f0bb) by AnnabelK (https://sketchfab.com/AnnabelK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

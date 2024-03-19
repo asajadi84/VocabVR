@@ -1,0 +1,11 @@
+Model Information:
+* title:	Building_Guild_Headquarter_Level
+* source:	https://sketchfab.com/3d-models/building-guild-headquarter-level-fceead758fce408aa6de202a5348db19
+* author:	haohao2210 (https://sketchfab.com/haohao2210)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Building_Guild_Headquarter_Level" (https://sketchfab.com/3d-models/building-guild-headquarter-level-fceead758fce408aa6de202a5348db19) by haohao2210 (https://sketchfab.com/haohao2210) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

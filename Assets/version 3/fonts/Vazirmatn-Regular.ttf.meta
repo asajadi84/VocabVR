@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 92f3b308f0af78945b24c40df1950202
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Vazirmatn
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 132d2e1ca4cdbf94abe25573275f2ce9, type: 3}
+  - {fileID: 12800000, guid: 0774bd476ae191c4cbb1b2a4b6c2c59b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

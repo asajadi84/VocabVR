@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bayard Building
+* source:	https://sketchfab.com/3d-models/bayard-building-d8c2b59b7a7343ea99fc04ea1451012d
+* author:	novusod (https://sketchfab.com/novusod)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bayard Building" (https://sketchfab.com/3d-models/bayard-building-d8c2b59b7a7343ea99fc04ea1451012d) by novusod (https://sketchfab.com/novusod) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

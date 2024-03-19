@@ -1,0 +1,11 @@
+Model Information:
+* title:	hm191223
+* source:	https://sketchfab.com/3d-models/hm191223-a3a548c3e31347e799412a1e69489e33
+* author:	gkngngr (https://sketchfab.com/gkngngr)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "hm191223" (https://sketchfab.com/3d-models/hm191223-a3a548c3e31347e799412a1e69489e33) by gkngngr (https://sketchfab.com/gkngngr) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

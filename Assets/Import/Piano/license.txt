@@ -1,0 +1,11 @@
+Model Information:
+* title:	Piano
+* source:	https://sketchfab.com/3d-models/piano-8c3af1362caf45feb2e8eb2b6731926a
+* author:	DarksProducer (https://sketchfab.com/eduardo-dudu2001)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Piano" (https://sketchfab.com/3d-models/piano-8c3af1362caf45feb2e8eb2b6731926a) by DarksProducer (https://sketchfab.com/eduardo-dudu2001) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

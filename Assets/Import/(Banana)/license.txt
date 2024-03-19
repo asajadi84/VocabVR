@@ -1,0 +1,11 @@
+Model Information:
+* title:	(Banana)
+* source:	https://sketchfab.com/3d-models/banana-cde998c3012d4743952463cb3c284d6d
+* author:	valcirumbelino (https://sketchfab.com/valcirumbelino)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "(Banana)" (https://sketchfab.com/3d-models/banana-cde998c3012d4743952463cb3c284d6d) by valcirumbelino (https://sketchfab.com/valcirumbelino) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

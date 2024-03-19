@@ -1,0 +1,11 @@
+Model Information:
+* title:	Lion Model
+* source:	https://sketchfab.com/3d-models/lion-model-7d8bf4eee041473e806e7b41ea7d2de5
+* author:	gmttuts (https://sketchfab.com/gmttuts)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Lion Model" (https://sketchfab.com/3d-models/lion-model-7d8bf4eee041473e806e7b41ea7d2de5) by gmttuts (https://sketchfab.com/gmttuts) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

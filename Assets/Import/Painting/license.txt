@@ -1,0 +1,11 @@
+Model Information:
+* title:	Painting
+* source:	https://sketchfab.com/3d-models/painting-0c7c7712a3734873a74bd21e9433aad6
+* author:	burunduk (https://sketchfab.com/burunduk)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Painting" (https://sketchfab.com/3d-models/painting-0c7c7712a3734873a74bd21e9433aad6) by burunduk (https://sketchfab.com/burunduk) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

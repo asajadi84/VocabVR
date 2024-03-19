@@ -1,0 +1,11 @@
+Model Information:
+* title:	Reloj - Clock
+* source:	https://sketchfab.com/3d-models/reloj-clock-2d773f79111b4e9bbbb308eb998ec477
+* author:	TutosN (https://sketchfab.com/Tutos_N)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Reloj - Clock" (https://sketchfab.com/3d-models/reloj-clock-2d773f79111b4e9bbbb308eb998ec477) by TutosN (https://sketchfab.com/Tutos_N) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

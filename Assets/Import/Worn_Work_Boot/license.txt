@@ -1,0 +1,11 @@
+Model Information:
+* title:	Worn Work Boot
+* source:	https://sketchfab.com/3d-models/worn-work-boot-3a6447657c2e4c7482446c89dbc5323d
+* author:	itsskud (https://sketchfab.com/itsskud)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Worn Work Boot" (https://sketchfab.com/3d-models/worn-work-boot-3a6447657c2e4c7482446c89dbc5323d) by itsskud (https://sketchfab.com/itsskud) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

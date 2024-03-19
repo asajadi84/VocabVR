@@ -1,0 +1,11 @@
+Model Information:
+* title:	Beans
+* source:	https://sketchfab.com/3d-models/beans-f1565417a9c64e168e82f067f1c8c1f0
+* author:	Matthew (https://sketchfab.com/matthewwsu)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Beans" (https://sketchfab.com/3d-models/beans-f1565417a9c64e168e82f067f1c8c1f0) by Matthew (https://sketchfab.com/matthewwsu) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

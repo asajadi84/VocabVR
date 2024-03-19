@@ -1,0 +1,11 @@
+Model Information:
+* title:	Bicycle
+* source:	https://sketchfab.com/3d-models/bicycle-e256f6fea3ea468f9710a97cb2f1f274
+* author:	Azanureed (https://sketchfab.com/Azanureed)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Bicycle" (https://sketchfab.com/3d-models/bicycle-e256f6fea3ea468f9710a97cb2f1f274) by Azanureed (https://sketchfab.com/Azanureed) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

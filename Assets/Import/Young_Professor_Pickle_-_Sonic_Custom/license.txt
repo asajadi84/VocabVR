@@ -1,0 +1,11 @@
+Model Information:
+* title:	Young Professor Pickle - Sonic Custom
+* source:	https://sketchfab.com/3d-models/young-professor-pickle-sonic-custom-c15d0794464648789f84441fc3601ada
+* author:	Jacob Quintana (https://sketchfab.com/jacobq1004)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Young Professor Pickle - Sonic Custom" (https://sketchfab.com/3d-models/young-professor-pickle-sonic-custom-c15d0794464648789f84441fc3601ada) by Jacob Quintana (https://sketchfab.com/jacobq1004) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

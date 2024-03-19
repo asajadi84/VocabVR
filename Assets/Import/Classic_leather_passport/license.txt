@@ -1,0 +1,11 @@
+Model Information:
+* title:	Classic leather passport
+* source:	https://sketchfab.com/3d-models/classic-leather-passport-3a162dd69c31429fb162313c04f3954c
+* author:	Verticle (https://sketchfab.com/verticle)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Classic leather passport" (https://sketchfab.com/3d-models/classic-leather-passport-3a162dd69c31429fb162313c04f3954c) by Verticle (https://sketchfab.com/verticle) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

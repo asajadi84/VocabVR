@@ -1,0 +1,11 @@
+Model Information:
+* title:	Harry-Potter Albus Dumbledore
+* source:	https://sketchfab.com/3d-models/harry-potter-albus-dumbledore-865a6af7a79942008ab58a2b123c846f
+* author:	CAPTAAINRO (https://sketchfab.com/CAPTAAINRO)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Harry-Potter Albus Dumbledore" (https://sketchfab.com/3d-models/harry-potter-albus-dumbledore-865a6af7a79942008ab58a2b123c846f) by CAPTAAINRO (https://sketchfab.com/CAPTAAINRO) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

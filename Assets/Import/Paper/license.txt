@@ -1,0 +1,11 @@
+Model Information:
+* title:	Paper
+* source:	https://sketchfab.com/3d-models/paper-6a28333557f4455b88299c55552caca2
+* author:	KateGirl.SK (https://sketchfab.com/KateGirl.SK)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Paper" (https://sketchfab.com/3d-models/paper-6a28333557f4455b88299c55552caca2) by KateGirl.SK (https://sketchfab.com/KateGirl.SK) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

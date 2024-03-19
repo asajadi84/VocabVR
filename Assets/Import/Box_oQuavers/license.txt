@@ -1,0 +1,11 @@
+Model Information:
+* title:	Box o’Quavers
+* source:	https://sketchfab.com/3d-models/box-oquavers-26d5ea1b430242cdac03edd65c7085b8
+* author:	ar_pi (https://sketchfab.com/ar_pi)
+
+Model License:
+* license type:	CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)
+* requirements:	Author must be credited. No commercial use. Modified versions must have the same license.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Box o’Quavers" (https://sketchfab.com/3d-models/box-oquavers-26d5ea1b430242cdac03edd65c7085b8) by ar_pi (https://sketchfab.com/ar_pi) licensed under CC-BY-NC-SA-4.0 (http://creativecommons.org/licenses/by-nc-sa/4.0/)

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Stylized Magic hat
+* source:	https://sketchfab.com/3d-models/stylized-magic-hat-3807a50367fa444187d70ef02f7e0e71
+* author:	RiZoRuS77 (https://sketchfab.com/RiZoRuS77)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Stylized Magic hat" (https://sketchfab.com/3d-models/stylized-magic-hat-3807a50367fa444187d70ef02f7e0e71) by RiZoRuS77 (https://sketchfab.com/RiZoRuS77) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

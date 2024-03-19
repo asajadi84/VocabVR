@@ -1,0 +1,11 @@
+Model Information:
+* title:	Candy Real
+* source:	https://sketchfab.com/3d-models/candy-real-a65b82513fec45789c5edd2d9fd4ad1e
+* author:	tarik.kheinch (https://sketchfab.com/tarik.kheinch)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Candy Real" (https://sketchfab.com/3d-models/candy-real-a65b82513fec45789c5edd2d9fd4ad1e) by tarik.kheinch (https://sketchfab.com/tarik.kheinch) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

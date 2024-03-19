@@ -1,0 +1,11 @@
+Model Information:
+* title:	Riva Aquarama Lamborghini board
+* source:	https://sketchfab.com/3d-models/riva-aquarama-lamborghini-board-aee8cfd6af384e4c860307b3e5904157
+* author:	b_boy_k_rock (https://sketchfab.com/b_boy_k_rock)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Riva Aquarama Lamborghini board" (https://sketchfab.com/3d-models/riva-aquarama-lamborghini-board-aee8cfd6af384e4c860307b3e5904157) by b_boy_k_rock (https://sketchfab.com/b_boy_k_rock) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

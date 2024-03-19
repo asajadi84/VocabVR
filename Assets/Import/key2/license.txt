@@ -1,0 +1,11 @@
+Model Information:
+* title:	key2
+* source:	https://sketchfab.com/3d-models/key2-2a0d716d1cdd4c778f1f5030c6bc4568
+* author:	purpleguy<3 (https://sketchfab.com/rowe9317)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "key2" (https://sketchfab.com/3d-models/key2-2a0d716d1cdd4c778f1f5030c6bc4568) by purpleguy<3 (https://sketchfab.com/rowe9317) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

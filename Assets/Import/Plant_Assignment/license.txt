@@ -1,0 +1,11 @@
+Model Information:
+* title:	Plant Assignment
+* source:	https://sketchfab.com/3d-models/plant-assignment-2a597153ef0142d88196fac08d7903f8
+* author:	Jessica W. (https://sketchfab.com/jessicawo)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Plant Assignment" (https://sketchfab.com/3d-models/plant-assignment-2a597153ef0142d88196fac08d7903f8) by Jessica W. (https://sketchfab.com/jessicawo) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)

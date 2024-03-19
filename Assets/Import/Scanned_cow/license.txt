@@ -1,0 +1,11 @@
+Model Information:
+* title:	Scanned cow
+* source:	https://sketchfab.com/3d-models/scanned-cow-c18d0ccd5d534c6ea29483f6e595c9ee
+* author:	Ronen (https://sketchfab.com/ronenh)
+
+Model License:
+* license type:	CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)
+* requirements:	Author must be credited. Modified versions can not be distributed. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Scanned cow" (https://sketchfab.com/3d-models/scanned-cow-c18d0ccd5d534c6ea29483f6e595c9ee) by Ronen (https://sketchfab.com/ronenh) licensed under CC-BY-ND-4.0 (http://creativecommons.org/licenses/by-nd/4.0/)

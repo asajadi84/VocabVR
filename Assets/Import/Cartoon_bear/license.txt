@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cartoon bear
+* source:	https://sketchfab.com/3d-models/cartoon-bear-7d7f5758d6e74d66b0044712a9cf63a4
+* author:	CGulia (https://sketchfab.com/CGulia)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cartoon bear" (https://sketchfab.com/3d-models/cartoon-bear-7d7f5758d6e74d66b0044712a9cf63a4) by CGulia (https://sketchfab.com/CGulia) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
