@@ -47,6 +47,9 @@ public class ButtonsHandler : MonoBehaviour
             vocabItems.GetComponent<Task1GameManager>().canPlayIntro = true;
             vocabItems.GetComponent<Task1GameManager>().canOpenVocabBox = true;
             vocabItems.GetComponent<AudioSource>().Stop();
+
+            GameObject.Find("UI_Virtual_Joystick_Move").GetComponent<UIVirtualJoystick>().enabled = true;
+            GameObject.Find("UI_Virtual_Joystick_Look").GetComponent<UIVirtualJoystick>().enabled = true;
         }
         //task 2
         else
@@ -59,6 +62,9 @@ public class ButtonsHandler : MonoBehaviour
 
     public void closeWordbox()
     {
+        GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().ameButton.interactable = false;
+        GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().breButton.interactable = false;
+
         if (vocabItems.GetComponent<Task1GameManager>().currentVocab < 19)
         {
             GameObject.Find("PlayerFollowCamera").GetComponent<CinemachineVirtualCamera>().enabled = true;
@@ -78,7 +84,10 @@ public class ButtonsHandler : MonoBehaviour
             PlayerPrefs.SetInt("tempScore", 15 + vocabItems.GetComponent<Task1GameManager>().livesLeft);
             loadNextScene();
         }
-        
+
+        GameObject.Find("UI_Virtual_Joystick_Move").GetComponent<UIVirtualJoystick>().enabled = true;
+        GameObject.Find("UI_Virtual_Joystick_Look").GetComponent<UIVirtualJoystick>().enabled = true;
+
     }
     
     public void pauseGame()
@@ -94,6 +103,9 @@ public class ButtonsHandler : MonoBehaviour
             vocabItems.GetComponent<Task1GameManager>().canPlayIntro = false;
             vocabItems.GetComponent<Task1GameManager>().canOpenVocabBox = false;
             GameObject.Find("PlayerFollowCamera").GetComponent<CinemachineVirtualCamera>().enabled = false;
+
+            GameObject.Find("UI_Virtual_Joystick_Move").GetComponent<UIVirtualJoystick>().enabled = false;
+            GameObject.Find("UI_Virtual_Joystick_Look").GetComponent<UIVirtualJoystick>().enabled = false;
         }
 
         pausePanel.SetActive(true);
@@ -117,6 +129,9 @@ public class ButtonsHandler : MonoBehaviour
             vocabItems.GetComponent<Task1GameManager>().canPlayIntro = true;
             vocabItems.GetComponent<Task1GameManager>().canOpenVocabBox = true;
             GameObject.Find("PlayerFollowCamera").GetComponent<CinemachineVirtualCamera>().enabled = true;
+
+            GameObject.Find("UI_Virtual_Joystick_Move").GetComponent<UIVirtualJoystick>().enabled = true;
+            GameObject.Find("UI_Virtual_Joystick_Look").GetComponent<UIVirtualJoystick>().enabled = true;
         }
         
         pausePanel.SetActive(false);
@@ -152,6 +167,21 @@ public class ButtonsHandler : MonoBehaviour
     {
         aboutPanel.SetActive(false);
         //aboutPanel.GetComponent<Image>().DOFade(0, 2.0f);
+    }
+
+    public void openMarketReview() {
+        // Application.OpenURL("://comment?id=com.SajadiDev.VocabVR");
+
+        AndroidJavaObject intentObject = new AndroidJavaObject("android.content.Intent");
+        AndroidJavaClass intentClass = new AndroidJavaClass("android.content.Intent");
+        AndroidJavaClass uriClass = new AndroidJavaClass("android.net.Uri");
+        intentObject.Call<AndroidJavaObject>("setAction", intentClass.GetStatic<string>("ACTION_EDIT"));
+        intentObject.Call<AndroidJavaObject>("setData", uriClass.CallStatic<AndroidJavaObject>("parse", "bazaar://details?id=com.SajadiDev.VocabVR"));
+        intentObject.Call<AndroidJavaObject>("setPackage", "com.farsitel.bazaar");
+
+        AndroidJavaClass unity = new AndroidJavaClass("com.unity3d.player.UnityPlayer");
+        AndroidJavaObject currentActivity = unity.GetStatic<AndroidJavaObject>("currentActivity");
+        currentActivity.Call("startActivity", intentObject);
     }
 
     public void exitApplication()

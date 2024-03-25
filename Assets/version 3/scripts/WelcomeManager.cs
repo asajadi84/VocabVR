@@ -4,6 +4,8 @@ using System.Collections.Generic;
 using System.Threading;
 using Cinemachine;
 using UnityEngine;
+using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
 
 public class WelcomeManager : MonoBehaviour
 {
@@ -30,9 +32,21 @@ public class WelcomeManager : MonoBehaviour
     {
         
     }
-    
+
+    private bool IsPointerOverUIObject()
+    {
+        var touchPosition = Touchscreen.current.position.ReadValue();
+        var eventData = new PointerEventData(EventSystem.current) { position = touchPosition };
+        var results = new List<RaycastResult>();
+        EventSystem.current.RaycastAll(eventData, results);
+        Debug.Log(results.Count);
+        return results.Count > 1;
+    }
+
     private void OnMouseDown()
     {
+        if (IsPointerOverUIObject()) { return; }
+
         if (GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().canPlayIntro)
         {
             HoldIntroPlay = StartCoroutine(holdIntroPlay());

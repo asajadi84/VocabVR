@@ -44,6 +44,9 @@ public class Task1GameManager : MonoBehaviour
     public AudioClip[] vocabPronunciationUK;
     public Sprite[] vocabSprites;
 
+    public Button ameButton;
+    public Button breButton;
+
     private void Awake()
     {
         //reset the tempScore back to zero
@@ -52,6 +55,9 @@ public class Task1GameManager : MonoBehaviour
         //set the first word properties to the UI left container
         vocabClipart.GetComponent<Image>().sprite = vocabSprites[0];
         vocabTranslationText.text = Fa.faConvert(vocabTranslation[0]);
+
+        ameButton.interactable = false;
+        breButton.interactable = false;
     }
 
     // Start is called before the first frame update

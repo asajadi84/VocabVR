@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using Cinemachine;
 using UnityEngine;
 using UnityEngine.EventSystems;
+using UnityEngine.InputSystem;
 
 public class WordObjectHandler : MonoBehaviour
 {
@@ -20,19 +21,34 @@ public class WordObjectHandler : MonoBehaviour
         
     }
 
+    private bool IsPointerOverUIObject() {
+        var touchPosition = Touchscreen.current.position.ReadValue();
+        var eventData = new PointerEventData(EventSystem.current) { position = touchPosition };
+        var results = new List<RaycastResult>();
+        EventSystem.current.RaycastAll(eventData, results);
+        Debug.Log(results.Count);
+        return results.Count > 1;
+    }
+
     private void OnMouseDown()
     {
+        if (IsPointerOverUIObject()) { return; }
+
         if (GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().canOpenVocabBox &&
             !GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().hoveredOverPause)
         {
             //Clicked on the right item
             if (wordObjectId == GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().currentVocab)
             {
+
                 //disable everything
                 GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().canPlayIntro = false;
                 GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().canOpenVocabBox = false;
                 GameObject.Find("PlayerFollowCamera").GetComponent<CinemachineVirtualCamera>().enabled = false;
-                
+
+                GameObject.Find("UI_Virtual_Joystick_Move").GetComponent<UIVirtualJoystick>().enabled = false;
+                GameObject.Find("UI_Virtual_Joystick_Look").GetComponent<UIVirtualJoystick>().enabled = false;
+
                 GameObject.Find("Vocab Items").GetComponent<AudioSource>().PlayOneShot(
                     GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().correctAnswerClip);
                     
@@ -40,6 +56,8 @@ public class WordObjectHandler : MonoBehaviour
                 
                 GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().rightContainerFoundText.text =
                     "Found: " + (GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().currentVocab + 1) + "/20";
+
+                Invoke("SetPrnBtnsInteractable", 0.5f);
             }
             //clicked on the wrong item
             else
@@ -72,5 +90,10 @@ public class WordObjectHandler : MonoBehaviour
                 }
             }
         }
+    }
+
+    private void SetPrnBtnsInteractable() {
+        GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().ameButton.interactable = true;
+        GameObject.Find("Vocab Items").GetComponent<Task1GameManager>().breButton.interactable = true;
     }
 }

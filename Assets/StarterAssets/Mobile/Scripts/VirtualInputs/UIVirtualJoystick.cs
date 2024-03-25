@@ -62,7 +62,7 @@ public class UIVirtualJoystick : MonoBehaviour, IPointerDownHandler, IDragHandle
     {
         OutputPointerEventValue(Vector2.zero);
 
-        if(handleRect)
+        if (handleRect)
         {
              UpdateHandleRectPosition(Vector2.zero);
         }
